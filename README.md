@@ -1,2 +1,4 @@
 # permutation_bootstrap
-teaching tool app that illustrates the use of bootstrapping ie. illustrates concepts: statistical distribution, p-val. 
+Often researchers get excited about discovering statistically significant findings without full comprehension of its meaning. It is a phrase that is loaded with meaning, yet often it’s hard to explain and harder to understand. Traditionally we set up a null hypothesis (H0) and an alternative hypothesis (H¬1) and by using statistical significant test we try to reject the null hypothesis. 
+To help in explaining the concept of statistical significant the app illustrates how easy it may be for a difference between the two samples to occur purely by chance. Without focusing on hypothesis testing and calculation of some other statistic like a t-ratio, using two-sample permutation bootstrapping the attention could be given to the actual statistic of interest, ie. the difference between the two samples and its null distribution. 
+This shiny app enables easy visualisation of null distribution and p-value making, often perceived as a complex procedure of hypothesis testing, very natural. 
